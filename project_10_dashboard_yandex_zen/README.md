@@ -8,9 +8,9 @@
 **Задача:** 
 сделать дашборд, который будет основываться на пайплайне, который будет брать данные из таблицы, в которых хранятся сырые данные, трансформировать данные и укладывать их в агрегирующую таблицу. Пайплайн будет разработан дата-инженерами.
 
-[Ссылка на дашборд](https://public.tableau.com/app/profile/anna.fedorova1016/viz/ProjectDzen_16893252839780/Dashboard1?publish=yes)
+[Ссылка на дашборд в Tableau Public](https://public.tableau.com/app/profile/anna.fedorova1016/viz/ProjectDzen_16893252839780/Dashboard1?publish=yes)
 
 [Презентация.pdf](https://www.dropbox.com/scl/fi/hmgdcqr6k4uzkcwms4xbr/.pdf?rlkey=wmpyosxdcqjlvjiwwlctx2izx&dl=0)
 
 ## Используемые библиотеки ##
-PostgreSQL SQLAlchemy Pandas os dotenv
+PostgreSQL SQLAlchemy Pandas
